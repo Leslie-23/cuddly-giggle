@@ -1,0 +1,5 @@
+*node_modules
+.env
+node_modules
+/node_modules
+kaps-dwnld-firebase-adminsdk-2uz12-0165f28942.json
