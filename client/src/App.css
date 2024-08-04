@@ -1,0 +1,20 @@
+/* Add your CSS styles here for better UI/UX */
+button {
+  margin: 5px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  cursor: pointer;
+}
+
+li:hover {
+  text-decoration: underline;
+}
+
+div {
+  margin: 10px 0;
+}
